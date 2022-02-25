@@ -5,5 +5,6 @@ This repository contains the data sets and R code files that can be used to crea
 
 Chapter 3 (Reserve Army of Labor): (a) RAL_code.R, (b) RAL_Data.xlsx
 
+Chapter 3 (Monetary Expression of Value): (a) mev-us.R
 
 
