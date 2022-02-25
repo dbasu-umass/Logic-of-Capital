@@ -13,5 +13,7 @@ Chapter 5 (Components of Surplus Value, US: Figure 5.6, 5.7): (a) surplus-us.R (
 
 Chapter 5 (Components of Surplus Value, India: Figure 5.8): (a) surplus-india.R (R code), (b) asi-data.xlsx (data set with description of variables)
 
+Chapter 6 (Marx-Okishio threshold, US Corporate Business sector: Figure 6.2): (a)mok.R (R code), (b) data-mok.xlsx (data set with description of variables)
+
 Chapter 7 (Value-Price calculations using the Standard Interpretation and the New Interpretation): (a) value-price.R
 
